@@ -23,3 +23,7 @@ main{
     text-transform: uppercase;
     padding: 100px;
 }
+
+img{
+    border-radius: 50px;
+}
